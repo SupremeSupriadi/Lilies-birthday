@@ -19,12 +19,6 @@
   --sans: "DM Sans", sans-serif;
 }
 
-@font-face {
-  font-family: "Jane Austen";
-  src: url("fonts/JaneAusten.ttf") format("truetype");
-  font-display: swap;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -409,7 +403,7 @@ main,
   overflow-wrap: anywhere;
 }
 
-/* POEMS */
+/* POEMS - UPDATED TO ALLURA */
 
 .poem {
   margin-top: 30px;
@@ -417,8 +411,8 @@ main,
 
   border-top: 1px solid var(--line);
 
-  font-family: "Jane Austen", var(--script);
-  font-size: clamp(21px, 2.1vw, 25px);
+  font-family: var(--script);
+  font-size: clamp(25px, 2.6vw, 30px);
   line-height: 1.85;
 
   color: var(--deep-rose);
@@ -651,7 +645,7 @@ main,
     margin-top: 24px;
     padding-top: 22px;
 
-    font-size: clamp(20px, 5.2vw, 24px);
+    font-size: clamp(23px, 5.8vw, 28px);
     line-height: 1.8;
   }
 
@@ -712,7 +706,7 @@ main,
   }
 
   .poem {
-    font-size: 20px;
+    font-size: 22px;
     line-height: 1.8;
   }
 

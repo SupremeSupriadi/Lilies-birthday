@@ -67,7 +67,7 @@ window.SITE_CONTENT = {
 
         "Sometimes, from the quietest corners of my space, I find myself just marveling at the way you carry your own storms, how you smile through the weight, how your mind works, and how effortlessly you light up a room without even trying.",
 
-        "Dan hamper setiap malam ku menatap purnama, dan aku bertanya kepada tuhan apa itu arti keindahan, namun ia tak memberiku penjelasan",
+        "Dan hampir setiap malam ku menatap purnama, dan aku bertanya kepada tuhan apa itu arti keindahan, namun ia tak memberiku penjelasan",
 
         "Ia mengirimu.",
 
